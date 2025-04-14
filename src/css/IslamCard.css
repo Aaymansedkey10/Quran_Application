@@ -1,0 +1,12 @@
+.single-good-deeds .good-deeds-name {
+    background-color: #041f17;
+    color: #fff;
+    width: max-content;
+    height: 80px;
+    margin: auto;
+    padding: 22px 10px
+}
+.single-good-deeds .card-body{
+    height: 170px;
+    border: 1px solid #041f17 !important;
+}

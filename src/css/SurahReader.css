@@ -1,0 +1,17 @@
+.ayah {
+    display: block;
+    text-align: right; 
+    line-height: 2.5; 
+}
+
+.ayah p {
+    display: inline; 
+    white-space: normal; 
+    word-wrap: break-word; 
+}
+
+.number-ayah {
+    display: inline-block;
+    padding: 0px 10px;
+    color: #0b3d2e;
+}

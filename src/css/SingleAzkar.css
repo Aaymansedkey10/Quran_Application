@@ -1,0 +1,20 @@
+.single-zekr{
+    height: 280px !important;
+}
+.single-zekr .single-zekr-number{
+    width: 60px !important;
+    height: 50px !important;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+.single-zekr .single-zekr-content{
+    height: 190px !important;
+}
+.single-zekr .number-single-azkar-border-color{
+    border:1px solid rgba(133, 0, 0, 0.76)  !important;
+}
+.single-zekr .number-single-azkar-zero{
+    background-color: rgba(133, 0, 0, 0.76) !important;
+    color: #fff !important;
+}
